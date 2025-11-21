@@ -218,6 +218,7 @@ p:last-child {
 
 .title {
   color: #15549a;
+  font-size: 18px;
 }
 
 .text-bold {
@@ -2292,7 +2293,7 @@ index-1
 }
 
 .refinance-hero-section {
-  background: url(../images/slider-3.jpg)no-repeat;
+  background: url(../images/slider-1.jpg)no-repeat;
   background-size: cover;
   position: relative;
   background-position-x: center;
@@ -2330,6 +2331,99 @@ index-1
   margin-bottom: 0px;
   color: #fff;
 }
+
+/* Hygiene Hero  */
+.header-wide {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.refinance-hero-section-2 {
+  background: url(../images/slider-3.jpg)no-repeat;
+  background-size: cover;
+  position: relative;
+  background-position-x: center;
+}
+
+.refinance-hero-block-2 {
+  padding-top: 164px;
+  padding-bottom: 164px;
+}
+
+.refinance-hero-block-2 h1 {
+  font-size: 38px;
+  line-height: 58px;
+}
+
+.refinance-rate-section-2 {
+  background-color: rgba(21, 84, 154, 0.8);
+  color: #fff;
+  padding: 15px 15px;
+  position: absolute;
+  bottom: 0;
+  border-bottom: 5px solid #0a4b94;
+}
+
+.refinance-rate-block-2 {
+  display: inline-block;
+  margin-right: 20px;
+  line-height: 2;
+}
+
+.refinance-rate-block-title-2 {
+  letter-spacing: 0px;
+  font-weight: 400;
+  font-size: 22px;
+  margin-bottom: 0px;
+  color: #fff;
+}
+
+/* Healthcare Hero */
+.header-wide {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.refinance-hero-section-3 {
+  background: url(../images/slider-2.jpg)no-repeat;
+  background-size: cover;
+  position: relative;
+  background-position-x: center;
+}
+
+.refinance-hero-block-3 {
+  padding-top: 164px;
+  padding-bottom: 164px;
+}
+
+.refinance-hero-block-3 h1 {
+  font-size: 38px;
+  line-height: 58px;
+}
+
+.refinance-rate-section-3 {
+  background-color: rgba(21, 84, 154, 0.8);
+  color: #fff;
+  padding: 15px 15px;
+  position: absolute;
+  bottom: 0;
+  border-bottom: 5px solid #0a4b94;
+}
+
+.refinance-rate-block-3 {
+  display: inline-block;
+  margin-right: 20px;
+  line-height: 2;
+}
+
+.refinance-rate-block-title-3 {
+  letter-spacing: 0px;
+  font-weight: 400;
+  font-size: 22px;
+  margin-bottom: 0px;
+  color: #fff;
+}
+
 
 .how-it-section {
   color: #fff;
@@ -4004,12 +4098,12 @@ About us
 .cta-section {}
 
 .cta-section-second {
-  background: url(../images/cta-img-2.jpg)no-repeat;
+  background: url(../images/security-slider.jpg)no-repeat;
   background-size: cover;
 }
 
 .cta-section-second h1 {
-  font-size: 42px;
+  font-size: 32px;
 }
 
 .text-big {
